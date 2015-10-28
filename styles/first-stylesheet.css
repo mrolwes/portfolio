@@ -80,3 +80,8 @@ article {
     display: block;
 }
 
+img {
+    text-align: center;
+    margin-left: auto;
+}
+
