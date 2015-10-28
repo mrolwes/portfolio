@@ -1,0 +1,82 @@
+body {
+  background-color: cadetblue;
+}
+
+div {
+  width: 95%;
+  padding: 10px;
+  border: 5px solid gray;
+  margin 0;
+}
+  
+h1 {
+  color: firebrick;
+  text-align: center;
+}
+
+h2 {
+  color: antiquewhite;
+}
+  
+p {
+  font-family: "Times New Roman";
+  font-size: 20px;
+}
+  
+a:link {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #FF0000;
+}
+
+a:hover {
+  color: #FFFF00;
+}
+
+nav a:link, a:visited {
+    display: block;
+    width: 15%;
+    font-weight: bold;
+    color: antiquewhite;
+    background-color: firebrick;
+    text-align: center;
+    padding: 5px;
+    text-decoration: none;
+    text-transform: uppercase;
+    float:left;
+}
+
+q {
+    color: firebrick;
+    font-weight: bold;
+}
+
+ul { 
+    list-style-type: none;
+    font-size: 20px;
+}
+
+ul img {
+    padding-right: 5px;
+    padding-bottom: 8px;
+}
+    
+footer p{
+    font-size: 15px;
+    color: antiquewhite;
+}
+
+aside {
+    display: block;
+    float: left; 
+    width: 10%;
+    margin: 0 10px 10px 10px;
+    padding: 6px;
+}
+
+article {
+    display: block;
+}
+
